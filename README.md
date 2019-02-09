@@ -6,7 +6,7 @@ Neighborhood-based approaches have been the first family of algorithms developed
 In this work, we investigate the effect on recommendation accuracy when we go beyond the above two assumptions and define (and include) the concepts of dissimilarity and asymmetry in similarity measures. In our proposal, we start from a probabilistic interpretation of similarity to define symmetric and asymmetric dissimilarities. The dissimilarity measures are then combined with traditional similarity values using additive and multiplicative strategies. The experimental evaluation shows that our approach outperforms the non-dissimilarity-aware counterparts improving the accuracy of results or diversity or both.
 
 ## Reference
-If you publish research that uses CP-theories-SPARQL please use:
+If you publish research that uses these Asymmetric Similarity measures please use:
 ~~~
 @inproceedings{Anelli2019Importance,
   author    = {Vito Walter Anelli and
