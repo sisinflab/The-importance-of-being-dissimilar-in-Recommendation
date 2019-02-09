@@ -8,9 +8,20 @@ In this work, we investigate the effect on recommendation accuracy when we go be
 ## Reference
 If you publish research that uses CP-theories-SPARQL please use:
 ~~~
-bibtex
+@inproceedings{Anelli2019Importance,
+  author    = {Vito Walter Anelli and
+               Tommaso Di Noia and
+               Eugenio Di Sciascio and
+               Azzurra Ragone and
+               Joseph Trotta},
+  title     = {The importance of being dissimilar in Recommendation},
+  booktitle = {Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (SAC '19), April 8--12, 2019, Limassol, Cyprus},
+  year      = {2019},
+  doi       = {10.1145/3240323.3240338},
+  isbn      = {978-1-4503-5933-7/19/04}
+}
 ~~~
-The full paper describing the overall approach is available here [PDF](link)
+The full paper describing the overall approach is available here [PDF](https://github.com/vitowalteranelli/The-importance-of-being-dissimilar-in-Recommendation/blob/master/SAC2019_being_dissimilar_in_recommendation.pdf)
 The extended results that had no room in the paper are available here [ODS](https://github.com/vitowalteranelli/The-importance-of-being-dissimilar-in-Recommendation/blob/master/ImportanceOfBeingDissimilar.ods)
 
 ## Motivation
