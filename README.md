@@ -21,7 +21,8 @@ If you publish research that uses CP-theories-SPARQL please use:
   isbn      = {978-1-4503-5933-7/19/04}
 }
 ~~~
-The full paper describing the overall approach is available here [PDF](https://github.com/vitowalteranelli/The-importance-of-being-dissimilar-in-Recommendation/blob/master/SAC2019_being_dissimilar_in_recommendation.pdf)
+The full paper describing the overall approach is available here [PDF](https://github.com/vitowalteranelli/The-importance-of-being-dissimilar-in-Recommendation/blob/master/SAC2019_being_dissimilar_in_recommendation.pdf).
+
 The extended results that had no room in the paper are available here [ODS](https://github.com/vitowalteranelli/The-importance-of-being-dissimilar-in-Recommendation/blob/master/ImportanceOfBeingDissimilar.ods)
 
 ## Motivation
